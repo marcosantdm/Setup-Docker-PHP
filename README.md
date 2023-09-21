@@ -57,7 +57,7 @@ php artisan key:generate
 
 O link para acessar o projeto é: http://localhost:8989
 
-# Explicações finais
+# Considerações finais
 
 Todo esse projeto foi desenvolvido por mim, sinta-se a vontade para utilizar, replicar e modificar da forma que desejar. Caso tenha alguma dúvida, entre em contato comigo pelo meu e-mail: *marcos.antoniodm039@gmail.com*
 
